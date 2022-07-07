@@ -1,4 +1,7 @@
 # markdown-blog
+
+See https://github.com/AgregoreWeb/markdown-blog for the authoratative version of this project
+
 A minimal blogging platform using IPFS Protocol Handlers and Markdown
 
 **IN PROGRESS**
